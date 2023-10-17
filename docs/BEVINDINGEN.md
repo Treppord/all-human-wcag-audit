@@ -10,4 +10,4 @@ De "Support" knop in de linkeronderhoek van de website maakt gebruik van een <if
 Binnen de website werden directe links waargenomen die geen duidelijke of onderscheidende namen hadden. Dit gebrek aan expliciete benaming kan problematisch zijn voor gebruikers met gehoorbeperkingen, aangezien het hen niet in staat stelt om de links op basis van hun auditieve inhoud gemakkelijk te identificeren. Een meer beschrijvende benaming van deze links zou de toegankelijkheid van de website verbeteren.
 
 
-<img src="https://i.imgur.com/P8AUxG5.png" alt="Your Image" width="200">
+<img src="https://i.imgur.com/P8AUxG5.png" alt="Your Image" width="800">
