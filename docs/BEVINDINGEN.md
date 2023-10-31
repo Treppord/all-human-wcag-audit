@@ -22,7 +22,6 @@ Binnen de website werden directe links waargenomen die geen duidelijke of onders
 Met de Tab toets heb ik elke button kunnen bereiken en heb ik geen problemen vernomen, en dus heb ik geen problemen kunnen verholpen.
 Wat mij wel op viel is dat als de Tab toets in de "Search Bar" komt te staan, dat het eerst alle 8 spel categorien voorbij gaat.
 
-
 ## Screen Reader Test
 De Screen Reader-test op curseforge.com verliep vlot vanwege de doordachte implementatie van alle h1 tot h4 elementen, die op een logische en gestructureerde manier zijn aangekondigd, wat de toegankelijkheid en gebruiksvriendelijkheid van de website aanzienlijk verbetert.
 
