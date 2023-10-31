@@ -26,3 +26,8 @@ Wat mij wel op viel is dat als de Tab toets in de "Search Bar" komt te staan, da
 ## Screen Reader Test
 De Screen Reader-test op curseforge.com verliep vlot vanwege de doordachte implementatie van alle h1 tot h4 elementen, die op een logische en gestructureerde manier zijn aangekondigd, wat de toegankelijkheid en gebruiksvriendelijkheid van de website aanzienlijk verbetert.
 
+### Interactieve elementen
+Voor Curseforge.com zijn alle interactieve elementen zorgvuldig ontworpen. Een duidelijke header met een goede contrast ratio, een grote search bar in het midden en locale projecten die tot elk spel behoort.
+
+### Headings & landmarks
+De website, Curseforge.com, is opgebouwd met een <main> structuur. Ik heb slechts één h1-element op de pagina gevonden, de rest van de website is opgebouwd uit modules en inline scripts die de functionaliteit uitvoeren.
